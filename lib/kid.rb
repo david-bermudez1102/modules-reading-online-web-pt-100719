@@ -1,7 +1,7 @@
 require_relative './dance_module.rb'
 require_relative './class_methods_module.rb'
 
-class k=Kid
+class Kid
 
   include Dance
 
